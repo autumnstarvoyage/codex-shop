@@ -1,0 +1,20 @@
+# Node.js dependencies and generated build/test output
+node_modules/
+dist/
+coverage/
+
+# Generated sales summary
+sales-summary.csv
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files (keep the shareable example template)
+.env
+.env.*
+!.env.example
+
+# Common operating-system metadata
+.DS_Store
+Thumbs.db
